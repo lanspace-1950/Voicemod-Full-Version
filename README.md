@@ -237,4 +237,4 @@ This repository serves as the official landing page for Voicemod. The software i
 **Get the most recent version of Voicemod today!**
 
 ---
-**Last updated:** 2026-09-12 07:41:13 UTC
+**Last updated:** 2026-09-12 11:56:28 UTC
